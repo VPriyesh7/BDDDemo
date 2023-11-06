@@ -1,6 +1,6 @@
 
 
-/*public class LoginSteps {
+public class LoginSteps {
     @When("user enter user name and password")
     public void userEnterUserNameAndPassword() {
         System.out.println("userEnterUserNameAndPassword");
@@ -20,4 +20,4 @@
     public void userIsNavigatedToTheHomePage() {
         System.out.println("userIsNavigatedToTheHomePage");
     }
-}*/
+}
